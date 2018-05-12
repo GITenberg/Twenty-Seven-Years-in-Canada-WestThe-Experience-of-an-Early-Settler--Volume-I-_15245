@@ -1,0 +1,29 @@
+_repo: Twenty-Seven-Years-in-Canada-WestThe-Experience-of-an-Early-Settler--Volume-I-_15245
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Strickland, Samuel
+    birthdate: 1804
+    deathdate: 1867
+    gutenberg_agent_id: '5941'
+    url: http://www.gutenberg.org/2009/agents/5941
+description: Reprint of 1853 edition with an introduction to the new edition by Carl
+  F. Klinck. Depicts life in what is now Ontario during early 1800s.
+gutenberg_issued: '2005-03-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15245'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ontario -- Description and travel'
+- !lcc 'F1001'
+title: 'Twenty-Seven Years in Canada West
+
+  The Experience of an Early Settler (Volume I)'
+url: http://www.gutenberg.org/ebooks/15245
