@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5941
 description: Reprint of 1853 edition with an introduction to the new edition by Carl
   F. Klinck. Depicts life in what is now Ontario during early 1800s.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15245#Twenty-Seven-Years-in-Canada-WestThe-Experience-of-an-Early-Settler--Volume-I-
 gutenberg_issued: '2005-03-03'
 gutenberg_type: Text
 identifiers:
